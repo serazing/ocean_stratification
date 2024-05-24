@@ -3,7 +3,7 @@
 List of library files:
 ---------------------
 - isas_io.py: list of functions to open the ISAS dataset and write outputs
-- profile_tools.py: list of functions to analyse the profiles
+- profile_tools.py: list of functions to analyse the vertical profiles
 - plot.py: list of plotting functions
 
 List of batch files:
